@@ -1,0 +1,10 @@
+pytorch-lightning==1.0.8
+omegaconf==2.0.0
+opencv-python==4.5.2.54
+scipy==1.9.3
+numpy==1.23.5
+test-tube
+huggingface_hub
+six
+facexlib
+pillow==9.2.0
